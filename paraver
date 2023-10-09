@@ -1,61 +1,320 @@
-#EXTM3U
-#EXTINF:-1,POR:  RTP 1
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7057
-#EXTINF:-1,POR:  RTP 2
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7056
-#EXTINF:-1,POR:  SIC HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7063
-#EXTINF:-1,POR:  SIC Caras
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7059
-#EXTINF:-1,POR:  SIC K
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7062
-#EXTINF:-1,POR:  Sic Mulher
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7058
-#EXTINF:-1,POR:  SIC Noticias
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7061
-#EXTINF:-1,POR:  Sic Radical
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7060
-#EXTINF:-1,POR:  Toros tv
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7068
-#EXTINF:-1,POR:  TV Globo
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7064
-#EXTINF:-1,POR:  TVI
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7066
-#EXTINF:-1,POR:  TVI 24
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7065
-#EXTINF:-1,POR:  Cine Mundo
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7050
-#EXTINF:-1,POR:  TVI Reality
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7049
-#EXTINF:-1,POR:  Fox Movies HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7069
-#EXTINF:-1,POR:  RTP 3
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7078
-#EXTINF:-1,POR:  Hollywood
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7048
-#EXTINF:-1,POR:  SPORT TV 1
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7085
-#EXTINF:-1,POR:  SPORT TV 2 HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7084
-#EXTINF:-1,POR:  SPORT TV 3 HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7083
-#EXTINF:-1,POR:  SPORT TV 4
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7082
-#EXTINF:-1,POR:  SPORT TV 5 HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7081
-#EXTINF:-1,POR:  TVCine 1
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7077
-#EXTINF:-1,POR:  TVCine 2
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7076
-#EXTINF:-1,POR:  TVCine 3
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7075
-#EXTINF:-1,POR:  TVCine 4
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7074
-#EXTINF:-1,POR:  TV RECORD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7073
-#EXTINF:-1,POR:  CmTV FHD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7072
-#EXTINF:-1,POR:  BTV 1 HD
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7071
-#EXTINF:-1,POR:  CANAL.PANDA
-http://iptv.blackkill.org:5487/kUYO84YoUr/13796/7070
+#EXTINF:-1,-= Portugal =-
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69124
+#EXTINF:-1,24 Kitchen HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69052
+#EXTINF:-1,A Bola TV PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69019
+#EXTINF:-1,Afro Music PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69091
+#EXTINF:-1,AMC FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69077
+#EXTINF:-1,AMC PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69078
+#EXTINF:-1,AMC Break PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249073
+#EXTINF:-1,AMC Crime PT 
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249072
+#EXTINF:-1,ARTV PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68984
+#EXTINF:-1,AXN HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69071
+#EXTINF:-1,AXN Movies HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69073
+#EXTINF:-1,AXN Movies PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69074
+#EXTINF:-1,AXN PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69072
+#EXTINF:-1,AXN White HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69075
+#EXTINF:-1,AXN White PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69076
+#EXTINF:-1,Baby TV PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69037
+#EXTINF:-1,BBC Entertainment PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69095
+#EXTINF:-1,BBC World News PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69096
+#EXTINF:-1,BENFICA TV FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68985
+#EXTINF:-1,Benfica TV HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68986
+#EXTINF:-1,Benfica TV PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68987
+#EXTINF:-1,Blaze TV PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69048
+#EXTINF:-1,Campo Pequeno TV HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249065
+#EXTINF:-1,Canal 11 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69014
+#EXTINF:-1,Canal Historia HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69046
+#EXTINF:-1,Canal Historia PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69047
+#EXTINF:-1,Canal Panda PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69034
+#EXTINF:-1,Canal Q PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68983
+#EXTINF:-1,Cartoon Network PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69036
+#EXTINF:-1,Casa e Cozinha HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69122
+#EXTINF:-1,CaÃ§a e Pesca HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69026
+#EXTINF:-1,CaÃ§a e Pesca PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69027
+#EXTINF:-1,CaÃ§avision PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69025
+#EXTINF:-1,CBS Reality PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68982
+#EXTINF:-1,Cinemundo HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69079
+#EXTINF:-1,Cinemundo PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69080
+#EXTINF:-1,CMTV HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68965
+#EXTINF:-1,CMTV PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68966
+#EXTINF:-1,CNN PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69097
+#EXTINF:-1,Crime Investigation PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69049
+#EXTINF:-1,DISCOVERY CHANNEL HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69040
+#EXTINF:-1,Discovery Channel PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69041
+#EXTINF:-1,Disney Channel PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69028
+#EXTINF:-1,Disney Junior PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69029
+#EXTINF:-1,Dog TV FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249066
+#EXTINF:-1,E! Entertainment PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69039
+#EXTINF:-1,Eleven Sports 1 FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69004
+#EXTINF:-1,Eleven Sports 1 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69003
+#EXTINF:-1,Eleven Sports 1 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69002
+#EXTINF:-1,Eleven Sports 2 FHD
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69007
+#EXTINF:-1,Eleven Sports 2 HD
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69006
+#EXTINF:-1,Eleven Sports 2 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69005
+#EXTINF:-1,Eleven Sports 3 FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69010
+#EXTINF:-1,Eleven Sports 3 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69009
+#EXTINF:-1,Eleven Sports 3 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69008
+#EXTINF:-1,Eleven Sports 4 FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69011
+#EXTINF:-1,Eleven Sports 5 FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69012
+#EXTINF:-1,Eleven Sports 6 FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69013
+#EXTINF:-1,Eurosport 1 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69017
+#EXTINF:-1,Eurosport 2 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69018
+#EXTINF:-1,Euronews PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/201332
+#EXTINF:-1,Fight Network FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249064
+#EXTINF:-1,FOX Comedy HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69069
+#EXTINF:-1,FOX Comedy PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69070
+#EXTINF:-1,FOX Crime HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69065
+#EXTINF:-1,FOX Crime PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69066
+#EXTINF:-1,FOX HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69061
+#EXTINF:-1,FOX Life HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69063
+#EXTINF:-1,FOX Life PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69064
+#EXTINF:-1,FOX Movies HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69067
+#EXTINF:-1,FOX Movies PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69068
+#EXTINF:-1,FOX PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69062
+#EXTINF:-1,FOX Sports PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69098
+#EXTINF:-1,FUEL TV PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69024
+#EXTINF:-1,Globo Now PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69101
+#EXTINF:-1,Globo PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69100
+#EXTINF:-1,Hollywood HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69081
+#EXTINF:-1,Hollywood PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69082
+#EXTINF:-1,Iconcerts FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249068
+#EXTINF:-1,ID Investigation Discovery HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69050
+#EXTINF:-1,JimJam PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69032
+#EXTINF:-1,Kombat Sport PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69021
+#EXTINF:-1,Lolly Kids PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249067
+#EXTINF:-1,MCM PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69089
+#EXTINF:-1,Mezzo PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69090
+#EXTINF:-1,MOTORVISION TV PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69023
+#EXTINF:-1,MTV Portugal PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69087
+#EXTINF:-1,Nat Geo Wild PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69044
+#EXTINF:-1,National Geographic HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69042
+#EXTINF:-1,National Geographic PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69043
+#EXTINF:-1,Nickelodeon Junior PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69031
+#EXTINF:-1,Nickelodeon PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69030
+#EXTINF:-1,NOS Studios HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69085
+#EXTINF:-1,Odisseia PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69045
+#EXTINF:-1,Panda Bigs PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69033
+#EXTINF:-1,PFC PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69020
+#EXTINF:-1,Porto Canal PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69016
+#EXTINF:-1,RTP 1 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68955
+#EXTINF:-1,RTP 1 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68956
+#EXTINF:-1,RTP 2 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68957
+#EXTINF:-1,RTP 2 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68958
+#EXTINF:-1,RTP 3 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68969
+#EXTINF:-1,RTP Acores PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68981
+#EXTINF:-1,RTP Africa PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68979
+#EXTINF:-1,RTP Madeira PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68980
+#EXTINF:-1,RTP Memoria PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68978
+#EXTINF:-1,SIC Caras PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68974
+#EXTINF:-1,SIC HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68959
+#EXTINF:-1,SIC K PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69035
+#EXTINF:-1,SIC Mulher HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68970
+#EXTINF:-1,SIC Mulher PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68971
+#EXTINF:-1,SIC NotÃ­cias HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68963
+#EXTINF:-1,SIC NotÃ­cias PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68964
+#EXTINF:-1,SIC PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68960
+#EXTINF:-1,SIC RADICAL HD  PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68972
+#EXTINF:-1,SIC Radical PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68973
+#EXTINF:-1,Sky News PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69094
+#EXTINF:-1,Sport TV + PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69000
+#EXTINF:-1,Sport TV 1 FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68988
+#EXTINF:-1,Sport TV 1 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68989
+#EXTINF:-1,Sport TV 1 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68990
+#EXTINF:-1,Sport TV 2 FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68991
+#EXTINF:-1,Sport TV 2 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68992
+#EXTINF:-1,Sport TV 2 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68993
+#EXTINF:-1,Sport TV 3 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68994
+#EXTINF:-1,Sport TV 3 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68995
+#EXTINF:-1,Sport TV 4 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68996
+#EXTINF:-1,Sport TV 4 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68997
+#EXTINF:-1,Sport TV 5 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68998
+#EXTINF:-1,Sport TV 5 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68999
+#EXTINF:-1,Sport TV 6 FHD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249069
+#EXTINF:-1,Sporting TV PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69015
+#EXTINF:-1,SportTV NBA HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69001
+#EXTINF:-1,SYFY PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69083
+#EXTINF:-1,TLC PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69038
+#EXTINF:-1,TPA Internacional PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249062
+#EXTINF:-1,Trace Toca PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69092
+#EXTINF:-1,Trace Urban PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69093
+#EXTINF:-1,TRAVEL CHANNEL HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69051
+#EXTINF:-1,TV Record PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69102
+#EXTINF:-1,TV Series HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69123
+#EXTINF:-1,Toros HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/79502
+#EXTINF:-1,TV Cabo Verde PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/249063
+#EXTINF:-1,TVCine Action HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69059
+#EXTINF:-1,TVCine Action PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69060
+#EXTINF:-1,TVCine Edition HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69055
+#EXTINF:-1,TVCine Edition PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69056
+#EXTINF:-1,TVCine Emotion HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69057
+#EXTINF:-1,TVCine Emotion PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69058
+#EXTINF:-1,TVCine Top HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69053
+#EXTINF:-1,TVCine Top PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69054
+#EXTINF:-1,TVI FicÃ§Ã£o PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68975
+#EXTINF:-1,TVI HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68961
+#EXTINF:-1,TVI PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68962
+#EXTINF:-1,TVI Reality HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68976
+#EXTINF:-1,TVI Reality PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68977
+#EXTINF:-1,TVI24 HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68967
+#EXTINF:-1,TVI24 PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/68968
+#EXTINF:-1,VH1 Music PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69088
+#EXTINF:-1,Zap Viva HD PT
+http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69099
